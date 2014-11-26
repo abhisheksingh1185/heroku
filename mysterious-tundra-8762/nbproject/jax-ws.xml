@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="ItemQueryRqSoapImpl">
+      <implementation-class>com.ct.quickbooks.ws.ItemQueryRqSoapImpl</implementation-class>
+    </service>
+    <service name="CTSyncUserService">
+      <implementation-class>com.ct.quickbooks.ws.CTSyncUserService</implementation-class>
+    </service>
+  </services>
+  <clients>
+  </clients>
+  <jsr109>true</jsr109>
+</jax-ws>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://na11.salesforce.com/soap/wsdl.jsp?wsdl" uri="src/conf/xml-resources/web-service-references/wsdl/wsdl/na11.salesforce.com/soap/wsdl.jsp.wsdl"/>
+    <system systemId="https://na11.salesforce.com/soap/wsdl.jsp" uri="src/conf/xml-resources/web-service-references/wsdl/wsdl/na11.salesforce.com/soap/wsdl.jsp"/>
+    <system systemId="https://login.salesforce.com/soap/wsdl.jsp?wsdl" uri="src/conf/xml-resources/web-service-references/wsdl/wsdl/login.salesforce.com/soap/wsdl.jsp.wsdl"/>
+    <system systemId="file:/F:/Abhisheks-Working/Quickbooks/salesforce.wsdl" uri="src/conf/xml-resources/web-service-references/salesforce/wsdl/salesforce.wsdl"/>
+    <system systemId="file:/F:/Abhisheks-Working/Quickbooks/sfdcenterprise.wsdl" uri="src/conf/xml-resources/web-service-references/sfdcenterprise/wsdl/sfdcenterprise.wsdl"/>
+</catalog>
