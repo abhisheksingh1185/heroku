@@ -1,1 +1,1 @@
-web: sh target/bin/build
+web: node index.js
